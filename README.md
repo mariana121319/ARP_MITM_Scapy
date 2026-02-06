@@ -42,7 +42,7 @@ Se configuró una única VLAN para garantizar la comunicación directa entre los
 
 | VLAN ID | Nombre | Descripción |
 |---------|--------|-------------|
-| 10 | LAN-LAB | VLAN de laboratorio para pruebas de seguridad |
+| 10 | Vlan10 | VLAN de laboratorio para pruebas de seguridad |
 
 ---
 
@@ -159,7 +159,7 @@ Este script es **únicamente con fines educativos**. El uso no autorizado de té
 
 ## 👤 Autor
 
-**mariana121319**
+**Mariana Doñe Lara**
 
 ---
 
