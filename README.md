@@ -24,10 +24,6 @@ Este repositorio contiene un script que realiza un ataque **Man-in-the-Middle (M
 | **Gateway** | Router |
 | **Protocolo atacado** | ARP |
 
-### 🖼️ Topología de Red
-
-![Topología de Red](./topologia-red.png)
-
 ---
 
 ## 📡 VLANs utilizadas en el laboratorio
@@ -97,15 +93,27 @@ Debe retornar `1`
 sudo python3 arp_mitm.py
 ```
 
-### 🖼️ Ataque en Ejecución
-
-![Ataque en Ejecución](./ataque-ejecutandose.png)
-
 ---
 
 ## 📄 Script: `arp_mitm.py`
 
 El script se encuentra en el archivo [`arp_mitm.py`](./arp_mitm.py)
+
+---
+
+## 📸 Evidencia del Ataque
+
+### Topología
+
+<img width="477" height="453" alt="image" src="./topologia-red.png" />
+
+### Ejecución del Script
+
+<img width="439" height="278" alt="image" src="./ataque-ejecutandose.png" />
+
+### Resultado del Ataque
+
+<img width="692" height="425" alt="image" src="./verificacion-arp.png" />
 
 ---
 
@@ -120,10 +128,6 @@ arp -a
 ### Resultado esperado:
 
 La IP del gateway (`12.0.0.1`) aparece con la **MAC de Kali** en lugar de la MAC real del router.
-
-### 🖼️ Verificación del Ataque
-
-![Verificación ARP](./verificacion-arp.png)
 
 ---
 
