@@ -90,7 +90,7 @@ Debe retornar `1`
 ## ▶️ Uso del Script
 
 ```bash
-sudo python3 arp_mitm.py
+sudo python3 script.py
 ```
 
 ---
