@@ -97,7 +97,7 @@ sudo python3 arp_mitm.py
 
 ## 📄 Script: `arp_mitm.py`
 
-El script se encuentra en el archivo [`arp_mitm.py`](./arp_mitm.py)
+El script se encuentra en el archivo [`script.py`](./script.py)
 
 ---
 
