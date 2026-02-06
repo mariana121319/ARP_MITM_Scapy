@@ -105,15 +105,15 @@ El script se encuentra en el archivo [`arp_mitm.py`](./arp_mitm.py)
 
 ### Topología
 
-<img width="477" height="453" alt="image" src="./topologia-red.png" />
+<img width="484" height="473" alt="image" src="https://github.com/user-attachments/assets/c03d4bd3-9345-492d-abc1-cf43bda95427" />
 
 ### Ejecución del Script
 
-<img width="439" height="278" alt="image" src="./ataque-ejecutandose.png" />
+<img width="212" height="67" alt="image" src="https://github.com/user-attachments/assets/1dbd4b0c-ebe0-4a5e-99b0-a12c49b1ef70" />
 
 ### Resultado del Ataque
 
-<img width="692" height="425" alt="image" src="./verificacion-arp.png" />
+<img width="435" height="201" alt="image" src="https://github.com/user-attachments/assets/d8353614-751e-4e0c-aad9-6bec132630b7" />
 
 ---
 
