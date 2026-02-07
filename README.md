@@ -101,16 +101,6 @@ El script se encuentra en el archivo [`script.py`](./script.py)
 
 ---
 
-## 📸 Evidencia del Ataque
-
-### 🎥 Video Demostrativo
-
-[![ARP MITM Attack Demo](https://img.youtube.com/vi/FEPIKM-G5sQ/0.jpg)](https://www.youtube.com/watch?v=FEPIKM-G5sQ)
-
-**[📺 Ver video completo en YouTube](https://www.youtube.com/watch?v=FEPIKM-G5sQ)**
-
----
-
 ### Topología
 
 <img width="484" height="473" alt="image" src="https://github.com/user-attachments/assets/c03d4bd3-9345-492d-abc1-cf43bda95427" />
